@@ -1,0 +1,28 @@
+.text-page-qs {
+  display: block;
+}
+
+.text-page-qs b {
+  color: rgb(9, 128, 128);
+  font-size: 1.4em;
+}
+
+.text-page-qs h3 {
+  color: rgb(12, 133, 170);
+  font-size: 1.3em;
+}
+
+.text-page-qs p {
+  font-family: serif;
+  font-style: oblique;
+  font-size: 1.2em;
+}
+
+.text-page-qs h4 {
+  font-size: large;
+  color: rgb(166, 17, 172);
+}
+
+.text-page-qs h5 {
+  font-size: 1.3em;
+}
